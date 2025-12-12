@@ -14,7 +14,7 @@
 ## 🖼️ Dashboard Preview  
 
 <p align="center">
-  <img src="images/sales_dashboard.JPG" alt="Dashboard Overview" width="800">
+  <img src="tableau-sales-dashboard/images/sales_dashboard.JPG" alt="Dashboard Overview" width="800">
 </p>
 
 ---
