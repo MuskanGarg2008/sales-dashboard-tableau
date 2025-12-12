@@ -79,7 +79,6 @@ tableau-sales-dashboard/
 ---
 
 ## 📈 Potential Business Insights  
-*(Customize after reviewing your dashboard)*
 
 - The business generated **₹2.93M+** in total sales, supported by **795 customers**.  
 - **Central region** is the strongest performer with **~₹1.72M in sales** — nearly triple compared to other regions.
