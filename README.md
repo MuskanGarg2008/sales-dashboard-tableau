@@ -29,24 +29,11 @@ The goal of this dashboard is to simplify the decision-making process for busine
 
 ## 🎯 Key Features
 
-- 🚀 **KPI Highlights:** Total Customers, Profit, Product, Sales and other top metrics  
-- 🗺️ **Geographic/Regional Insights:** Performance comparison across locations and regions  
-- 📈 **Trend Analysis:** Month-on-Month sales trends  
-- 📦 **Product/Category Breakdown:** Identifies best-performing category and region  
-- 🎛️ **Interactive Filters:** Explore data by location, region, Sub-Category, etc.
-
----
-
-## 📂 Project Structure
-
-tableau-sales-dashboard/
-│── Sales_Dashboard.twbx 
-│── sales data.xlsx
-│── README.md
-└── images/
-├── Month-on-Month sales.jpg
-├── Sub-category wise sales.jpg
-└── sales dashboard.jpg
+- **KPI Highlights:** Total Customers, Profit, Product, Sales and other top metrics  
+- **Geographic/Regional Insights:** Performance comparison across locations and regions  
+- **Trend Analysis:** Month-on-Month sales trends  
+- **Product/Category Breakdown:** Identifies best-performing category and region  
+- **Interactive Filters:** Explore data by location, region, Sub-Category, etc.
 
 ---
 
@@ -85,13 +72,6 @@ tableau-sales-dashboard/
 - **Top Performing Categories:** Copiers, Bookcases, Phones, and Storage are major revenue drivers.  
 - **Standard Class** delivery mode generates the **highest profit** — likely the most cost-efficient logistics option. 
 - **Overall profit** is **₹372k+**, but certain categories (highlighted in red) are dragging profitability down.
-
----
-
-## 🙋‍♀️ Author
-
-**Muskan Garg**  
-Data Analytics & BI Enthusiast 
 
 ---
 
